@@ -1,0 +1,25 @@
+{
+    "name": "a398692628/frame",
+    "description": "houdunc86 frame exercise",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gaosiwen",
+            "email": "gsw1995412@sina.com"
+        }
+    ],
+    "require": {
+        "filp/whoops": "^2.1"
+    },
+    "autoload": {
+        "files": [
+            "system/helper.php"
+        ],
+        "psr-4": {
+            "houdunwang\\":"houdunwang\\",
+            "app\\":"app\\",
+            "system\\":"system\\"
+        }
+    }
+}
