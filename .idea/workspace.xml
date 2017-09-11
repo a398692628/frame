@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="864b442b-3484-415d-ba4c-32388bdd53ed" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/houdunwang/model/Base.php" afterPath="$PROJECT_DIR$/houdunwang/model/Base.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +30,8 @@
       <file leaf-file-name="Base.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/houdunwang/model/Base.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="157" column="30" lean-forward="true" selection-start-line="157" selection-start-column="30" selection-end-line="157" selection-end-column="30" />
+            <state relative-caret-position="7047">
+              <caret line="402" column="25" lean-forward="false" selection-start-line="402" selection-start-column="25" selection-end-line="402" selection-end-column="25" />
               <folding>
                 <element signature="e#47#64#0#PHP" expanded="true" />
                 <marker date="1505036699757" expanded="true" signature="2781:2817" ph="select * fro... $" />
@@ -139,8 +138,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,110 +148,20 @@
             <path>
               <item name="frame" type="b2602c69:ProjectViewProjectNode" />
               <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="home" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="home" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="home" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="home" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="entry" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="houdunwang" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="houdunwang" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="core" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="houdunwang" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="houdunwang" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bs3" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="system" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="system" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="frame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frame" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="system" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../asd" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
@@ -303,11 +210,13 @@
       <workItem from="1505034782002" duration="491000" />
       <workItem from="1505035405643" duration="313000" />
       <workItem from="1505035934135" duration="771000" />
+      <workItem from="1505089592807" duration="176000" />
+      <workItem from="1505089791137" duration="917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60528000" />
+    <option name="totallyTimeSpent" value="61621000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -320,9 +229,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23380129" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24190065" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816228" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -355,6 +263,82 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/houdunwang/model/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#64#0#PHP" expanded="true" />
+            <marker date="1505036699757" expanded="true" signature="2781:2817" ph="select * fro... $" />
+            <marker date="1505036699757" expanded="true" signature="2781:2831" ph="select * fro... $" />
+            <marker date="1505036699757" expanded="true" signature="3946:3967" ph="select ${{$f... " />
+            <marker date="1505036699757" expanded="true" signature="3946:3981" ph="select ${{$f... " />
+            <marker date="1505036699757" expanded="true" signature="3946:3982" ph="select ${{$f... " />
+            <marker date="1505036699757" expanded="true" signature="3946:3996" ph="select ${{$f... " />
+            <marker date="1505036699757" expanded="true" signature="6776:6788" ph="insert into $... " />
+            <marker date="1505036699757" expanded="true" signature="6776:6802" ph="insert into " />
+            <marker date="1505036699757" expanded="true" signature="6776:6812" ph="insert into $... " />
+            <marker date="1505036699757" expanded="true" signature="6776:6829" ph="insert into $... " />
+            <marker date="1505036699757" expanded="true" signature="7736:7762" ph="update ${{$t... " />
+            <marker date="1505036699757" expanded="true" signature="7736:7771" ph="update ${{$t... " />
+            <marker date="1505036699757" expanded="true" signature="7736:7772" ph="update ${{$t... " />
+            <marker date="1505036699757" expanded="true" signature="7736:7786" ph="update ${{$t... " />
+            <marker date="1505036699757" expanded="true" signature="8426:8453" ph="delete from " />
+            <marker date="1505036699757" expanded="true" signature="8799:8827" ph="select count... $" />
+            <marker date="1505036699757" expanded="true" signature="8799:8841" ph="select count... " />
+            <marker date="1505036699757" expanded="true" signature="8799:8842" ph="select count... $" />
+            <marker date="1505036699757" expanded="true" signature="8799:8856" ph="select count... $" />
+            <marker date="1505036699757" expanded="true" signature="9264:9326" ph="select * fro... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/controller/Entry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1508">
+          <caret line="55" column="10" lean-forward="false" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houdunwang/model/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#64#0#PHP" expanded="true" />
+            <marker date="1505036699757" expanded="true" signature="2781:2817" ph="select * fro... $" />
+            <marker date="1505036699757" expanded="true" signature="2781:2831" ph="select * fro... $" />
+            <marker date="1505036699757" expanded="true" signature="3946:3967" ph="select ${{$f... " />
+            <marker date="1505036699757" expanded="true" signature="3946:3981" ph="select ${{$f... " />
+            <marker date="1505036699757" expanded="true" signature="3946:3982" ph="select ${{$f... " />
+            <marker date="1505036699757" expanded="true" signature="3946:3996" ph="select ${{$f... " />
+            <marker date="1505036699757" expanded="true" signature="6776:6788" ph="insert into $... " />
+            <marker date="1505036699757" expanded="true" signature="6776:6802" ph="insert into " />
+            <marker date="1505036699757" expanded="true" signature="6776:6812" ph="insert into $... " />
+            <marker date="1505036699757" expanded="true" signature="6776:6829" ph="insert into $... " />
+            <marker date="1505036699757" expanded="true" signature="7736:7762" ph="update ${{$t... " />
+            <marker date="1505036699757" expanded="true" signature="7736:7771" ph="update ${{$t... " />
+            <marker date="1505036699757" expanded="true" signature="7736:7772" ph="update ${{$t... " />
+            <marker date="1505036699757" expanded="true" signature="7736:7786" ph="update ${{$t... " />
+            <marker date="1505036699757" expanded="true" signature="8426:8453" ph="delete from " />
+            <marker date="1505036699757" expanded="true" signature="8799:8827" ph="select count... $" />
+            <marker date="1505036699757" expanded="true" signature="8799:8841" ph="select count... " />
+            <marker date="1505036699757" expanded="true" signature="8799:8842" ph="select count... $" />
+            <marker date="1505036699757" expanded="true" signature="8799:8856" ph="select count... $" />
+            <marker date="1505036699757" expanded="true" signature="9264:9326" ph="select * fro... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/controller/Entry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1508">
+          <caret line="55" column="10" lean-forward="false" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/houdunwang/model/Base.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -791,10 +775,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/houdunwang/model/Base.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="157" column="30" lean-forward="true" selection-start-line="157" selection-start-column="30" selection-end-line="157" selection-end-column="30" />
+        <state relative-caret-position="7047">
+          <caret line="402" column="25" lean-forward="false" selection-start-line="402" selection-start-column="25" selection-end-line="402" selection-end-column="25" />
           <folding>
             <element signature="e#47#64#0#PHP" expanded="true" />
             <marker date="1505036699757" expanded="true" signature="2781:2817" ph="select * fro... $" />
