@@ -1,0 +1,46 @@
+<?php
+namespace app\admin\controller;
+
+use houdunwang\core\Controller;
+use houdunwang\view\View;
+use system\model\Admin;
+
+class Edit extends Controller
+{
+    /**
+     * 密码修改方法
+     * @return mixed
+     */
+    public function edit()
+    {
+        //echo 1;die;
+        //当数据传入的方式为post的时候
+        //进入if判断
+        if (IS_POST){
+            //实例化Admin并调用其中的edit方法
+            //实现密码修改
+            $res = (new Admin())->edit($_POST);
+            //如果返回的code值布尔值是真
+            //说面密码修改成功
+            if ($res['code']){
+                //删除session设定
+                session_unset();
+                session_destroy();
+                //session保存时间归零
+                setcookie(session_name(),session_id(),0,'/');
+                //为了防止错误将session中phrase的值变成空
+                $_SESSION['phrase']='';
+                //返回登录页面并弹出成功提示
+                $this->setRedirect(u('entry.index'))->message($res['msg']);
+            //code代码返回的布尔值是假的时候
+            }else{
+                //说米密码修改不成功
+                //弹出错误原因 并返回上级页面
+                $this->setRedirect()->message($res['msg']);
+            }
+
+        }
+        //加载与方法同名的页面
+        return View::make();
+    }
+}

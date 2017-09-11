@@ -54,6 +54,7 @@ class Entry extends Controller
         //$data = Stu::where('id>3')->orderBy('age');
         //$data = Stu::where('id>3')->orderBy();
         //dd($data);
+        return View::make();
     }
 
     public function add()

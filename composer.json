@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "filp/whoops": "^2.1"
+        "filp/whoops": "^2.1",
+        "gregwar/captcha": "dev-master"
     },
     "autoload": {
         "files": [

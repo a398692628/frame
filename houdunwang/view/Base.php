@@ -47,6 +47,8 @@ class Base
         //值变成键值
         extract($this->data);
         //加载模版
+        //dd($this->file);die;
+        //include "../app/home/view/entry/index.php";
         include $this->file;
         return '';
     }

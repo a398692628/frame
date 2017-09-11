@@ -10,12 +10,11 @@
 </head>
 <body>
 <div class="jumbotron" style="text-align: center;background: white;margin-top: 100px;">
-    <?php echo $a;?>
 	<div class="container">
 		<h1>Hello World!</h1>
 		<p>加载模版V</p>
 		<p>
-			<a class="btn btn-primary btn-lg">learn more</a>
+			<a class="btn btn-primary btn-lg" href="?s=admin/entry/index">learn more</a>
 		</p>
 	</div>
 </div>

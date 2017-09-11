@@ -47,4 +47,20 @@ if (!function_exists('c')){
     }
 }
 
+if (!function_exists('u')){
+    function u($url){
+        //dd($url);
+        $info = explode ('.',$url);
+        //dd($info);
+        if(count ($info)==2){
+            return "index.php?s=".MODULE."/{$info[0]}/{$info[1]}";
+        }
+        if(count ($info)==1){
+            return "index.php?s=".MODULE."/".CONTROLLER."/{$info[0]}";
+        }
+        return "index.php?s={$info[0]}/{$info[1]}/{$info[2]}";
+    }
+
+}
+
 
