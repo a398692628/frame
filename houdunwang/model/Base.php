@@ -22,6 +22,8 @@ class Base
 
     private $field = '';
 
+    private $order = '';
+
     /**
      * 构造函数
      * Base constructor.
@@ -171,7 +173,7 @@ class Base
         $field = $this->field ?: "*";
         //组成sql语句
         //用到field元素、table属性、与where属性组成
-        $sql = "select {$field} from {$this->table} {$this->where}";
+        $sql = "select {$field} from {$this->table} {$this->where} {$this->order}";
         //调用query方法
         //输入sql语句完成查询
         $data = $this->query($sql);
@@ -385,22 +387,12 @@ class Base
     }
 
     /**
-     * @param string $field     要排序的字段
-     * @param string $desc      升序还是降序排列
-     * @return bool|mixed
+     * @param $order    传入orderby条件
+     * @return $this
      */
-    public function orderBy($field='',$desc = '')
+    public function orderBy($order)
     {
-        //当有要排序的字段传入时
-        //进入if判断
-        if ($field){
-            //组成sql语句
-            $sql = "select * from {$this->table} {$this->where} order by {$field} {$desc}";
-            //执行有结果集的查询
-            return $this->query($sql);
-        }else{
-            //啥都不传返回false
-            return false;
-        }
+        $this->order = "order by " . $order;
+        return $this;
     }
 }

@@ -1,7 +1,9 @@
 <?php
 namespace app\admin\controller;
 
-class Common
+use houdunwang\core\Controller;
+
+class Common extends Controller
 {
     /**
      * 继承后一开始就会加载的构造函数
