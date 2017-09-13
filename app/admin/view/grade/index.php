@@ -44,7 +44,6 @@
             //alert(gid);return;
             location.href = "<?php echo u('del')?>" + "&gid=" + gid;
         }
-
     </script>
 
 <?php include "../app/admin/view/common/footer.php" ?>
