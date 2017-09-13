@@ -100,7 +100,7 @@
 					</a>
 				</div>
 				<ul class="list-group menus collapse in" id="collapseExample2">
-					<a href="" class="list-group-item">
+					<a href="<?php echo u('material.index'); ?>" class="list-group-item">
 						<i class="fa fa-file-text" aria-hidden="true"></i>
 						<span class="pull-right" href=""></span>
 						素材列表
@@ -118,7 +118,7 @@
 					</a>
 				</div>
 				<ul class="list-group menus collapse in" id="collapseExample3">
-					<a href="" class="list-group-item">
+					<a href="<?php echo u('student.index'); ?>" class="list-group-item">
 						<i class="fa fa-wrench" aria-hidden="true"></i>
 						<span class="pull-right" href=""></span>
 						学生列表
