@@ -42,7 +42,10 @@
     <script>
         function del(gid) {
             //alert(gid);return;
-            location.href = "<?php echo u('del')?>" + "&gid=" + gid;
+            //if (confirm("确认删除？")){
+            var url = "<?php echo u('del')?>" + "&gid=" + gid;
+            //}
+            modal(url);
         }
     </script>
 
